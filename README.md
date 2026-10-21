@@ -1,2 +1,2 @@
-# TOPs-Assignments-SQL
+# TOPs-Assignments
 
